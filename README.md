@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Joshua Erinosho a Mobile Developer 
+---
+Toolkits:
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter icon" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart icon" width="50" height="50" />  <img src="https://img.icons8.com/color/452/firebase.png" alt="Firebase icon" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git icon" width="50" height="50" /> 
+---
+
+---
+Learning:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C# icon" width="50" height="50" />
 <!--
 **Joshuaerinosho/joshuaerinosho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
