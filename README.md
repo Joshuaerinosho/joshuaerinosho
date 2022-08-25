@@ -7,7 +7,7 @@
 
 Hey there 👋
 
-I am an innovative developer who specializes in mobile development, with a keen interest in the development of applications that are both scalable and maintainable as well as being intuitive for my user's experience. I make it my mission to translate user-focused designs into pixel-perfect applications that runs blazing fast.
+I am Joshua Erinosho, an innovative developer who specializes in mobile development, with a keen interest in the development of applications that are both scalable and maintainable as well as being intuitive for my user's experience. I make it my mission to translate user-focused designs into pixel-perfect applications that runs blazing fast.
 I am always interested to work on something new as long as it lets me combine my passion for coding and art, so as to create useful and enjoyable interface and experiences for users.
 
 ## 💼 Skills
