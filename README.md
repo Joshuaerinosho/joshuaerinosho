@@ -40,6 +40,6 @@ I am always interested to work on something new as long as it lets me combine my
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
-Check back at the top of the hour for a new quote!
+Check back in an hour for a new quote! 
 
 <br>
