@@ -17,10 +17,6 @@ I am always interested to work on something new as long as it lets me combine my
 ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=4AB197)
 
-## &#x1f4c8; GitHub Stats
-
-<br>
-
 <hr>
 
 <p align="center">
