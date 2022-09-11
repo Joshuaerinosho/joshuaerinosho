@@ -21,15 +21,22 @@ I am always interested to work on something new as long as it lets me combine my
 
 <br>
 
-<a href="https://github.com/joshuaerinosho">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaerinosho&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+<hr>
 
-<a href="https://github.com/joshuaerinosho">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=joshuaerinosho&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Joshua Erinosho's GitHub Stats" />
-</a>
-<br>
-<br>
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=joshuaerinosho&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaerinosho&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=joshuaerinosho&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
+
+<hr>
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=joshuaerinosho&theme=onedark&margin-w=15&margin-h=15)](https://github.com/Joshuaerinosho)
+
+<hr>
+
 
 
 ## 📣 How about an Office quote before you go?
